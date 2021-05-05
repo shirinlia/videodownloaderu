@@ -11,7 +11,7 @@
   "env": {
         "API_ID": {"description": "4013995", "required": true},
         "API_HASH": {"description": "9653c14b0edae532d2cde6a05986e51d" , "required": true},
-        "BOT_TOKEN": {"description": "1667177447:AAH47ZLE9VhEOYtmiuOJATwz0wPt61nUeKk","required": true}
+        "BOT_TOKEN": {"description": "1667177447:AAEsFwbmOcQ9jBH86eaa6kWZYCWV_QwSLuw","required": true}
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
